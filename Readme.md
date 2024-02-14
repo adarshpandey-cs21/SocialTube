@@ -1,0 +1,1 @@
+SocialTube is a web application that combines features from YouTube and Twitter. Users can share videos, follow other users, post tweets, and engage with content.
