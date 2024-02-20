@@ -11,3 +11,5 @@ test/fixtures/**
 dist
 coverage
 .env
+*.env
+.env.*
